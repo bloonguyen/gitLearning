@@ -11,6 +11,8 @@
 * `rm` Remove file
 * `rm -r` Remove folder
 ## Lesson 2: Git init setup
+* `git init` Get git initial setup
+* `git config --global --edit` Edit username, email, etc..
 * `echo “......” >>` Put “......” contents to >> this file
 * `cat + file name` Show file content
 * `i` Edit content on vim
