@@ -11,3 +11,13 @@
 * `rm` Remove file
 * `rm -r` Remove folder
 ## Lesson 2: Git init setup
+* `echo “......” >>` Put “......” contents to >> this file
+* `cat + file name` Show file content
+* `i` Edit content on vim
+* `esc + :wq` Exit and save the contents
+* `git remote add origin http://….` Link the local file with github repository
+* `git clone` Copy repository to local
+* `git vi` Edit contents
+* `git add -A` Add all edited contents to git
+* `git commit -m""` Add a description on the commit
+* `git push` Push the commit to github 
