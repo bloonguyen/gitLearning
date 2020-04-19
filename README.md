@@ -31,3 +31,5 @@
 
 ## Test git branch
 * Lets start Monday
+* Lets start Tuesday
+* Lets start Wednesday
