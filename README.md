@@ -23,3 +23,7 @@
 * `git add -A` Add all edited contents to git
 * `git commit -m""` Add a description on the commit
 * `git push` Push the commit to github 
+## Lesson 3: How to use Visual Studio Code
+* Install `code` on visual studio
+* `code .` Open file and edit on visual studio
+
