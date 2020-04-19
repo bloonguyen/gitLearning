@@ -27,4 +27,4 @@
 * Install `code` on visual studio
 * `code .` Open file and edit on visual studio
 * Vannhi test Binh
-* Vannhi question
+* Resolve vannhi question
