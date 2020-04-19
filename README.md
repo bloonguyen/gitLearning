@@ -28,3 +28,6 @@
 * `code .` Open file and edit on visual studio
 * Vannhi test Binh
 * Resolve vannhi question
+
+## Test git branch
+* Lets start Monday
