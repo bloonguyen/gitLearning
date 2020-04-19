@@ -26,4 +26,4 @@
 ## Lesson 3: How to use Visual Studio Code
 * Install `code` on visual studio
 * `code .` Open file and edit on visual studio
-
+* Test Binh
