@@ -32,4 +32,6 @@
 ## Test git branch
 * Lets start Monday
 * Lets start Tuesday
+* Binh commit Tuesday
 * Lets start Wednesday
+* Binh commit Wednesday
