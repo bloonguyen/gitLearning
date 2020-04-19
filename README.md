@@ -27,3 +27,4 @@
 * Install `code` on visual studio
 * `code .` Open file and edit on visual studio
 * Test Binh
+* New line
